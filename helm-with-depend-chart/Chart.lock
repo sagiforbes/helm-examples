@@ -1,0 +1,6 @@
+dependencies:
+- name: helm-example
+  repository: file://charts/busy-box-example
+  version: 0.1.0
+digest: sha256:4195f47c86505b3316646756d8538bcf5849d9c9e2aa5b56a05c736168682277
+generated: "2023-08-06T22:42:35.561146302+03:00"
